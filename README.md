@@ -1,6 +1,6 @@
 # Training-Level-3
 
-This repository contains the Level 2 tasks of the Placement Training Phase 1
+This repository contains the Level 3 tasks of the Placement Training Phase 1
 
 Tasks:
 
